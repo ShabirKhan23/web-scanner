@@ -1,9 +1,9 @@
 
 # web-scanner
 
-#Tool Usage
+# Tool Usage
 
-1 #clone
+# clone
 
 git clone https://github.com/ShabirKhan23/web-scanner
 <h4>cd web-scanner</h4>
