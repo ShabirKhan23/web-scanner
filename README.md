@@ -5,6 +5,7 @@
 
 # clone
 
+<code>git clone https://github.com/ShabirKhan23/web-scanner</code>
 git clone https://github.com/ShabirKhan23/web-scanner
 <h4>cd web-scanner</h4>
 <h4>chmod +x setup.sh</h4>
